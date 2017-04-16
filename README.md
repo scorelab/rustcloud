@@ -5,6 +5,7 @@ Cloud services library
 rustcloud is a rust library which hides differences between different cloud providers(AWS,GCP etc) APIs and allows you to manage different cloud resources through a unified and easy to use API.
 
 Service Types
+
 Compute allows you to manage cloud and virtual servers
 
 Object Storage allows you to manage cloud object storage
